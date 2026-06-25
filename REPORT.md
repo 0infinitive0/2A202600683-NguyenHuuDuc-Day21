@@ -3,6 +3,7 @@
 **Học viên**: Nguyễn Hữu Đức — 2A202600683
 **Ngày nộp**: 2026-06-25
 **Submission option**: A (lightweight)
+**Link Google Drive (large files)**: https://drive.google.com/file/d/1HCV87kn3uZTk0nDobv19iDsB1quAySdm/view?usp=sharing
 
 ## 1. Setup
 - **Base model**: `unsloth/Qwen2.5-3B-bnb-4bit`
